@@ -1,0 +1,1 @@
+# idea-platform-jdk-translate-cn
