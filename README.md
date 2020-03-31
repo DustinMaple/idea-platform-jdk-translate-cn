@@ -1,4 +1,4 @@
-# idea-platform-jdk-translate-cn
+# IDEA插件开发
 
 这个项目是一个文档项目，同步到gitbook。
 
